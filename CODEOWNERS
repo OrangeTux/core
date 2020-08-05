@@ -128,6 +128,7 @@ homeassistant/components/epsonworkforce/* @ThaStealth
 homeassistant/components/eq3btsmart/* @rytilahti
 homeassistant/components/esphome/* @OttoWinter
 homeassistant/components/essent/* @TheLastProject
+homeassistant/components/ev/* @OrangeTux
 homeassistant/components/evohome/* @zxdavb
 homeassistant/components/ezviz/* @baqs
 homeassistant/components/fastdotcom/* @rohankapoorcom

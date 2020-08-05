@@ -52,6 +52,7 @@ FLOWS = [
     "emulated_roku",
     "enocean",
     "esphome",
+    "ev",
     "flick_electric",
     "flo",
     "flume",

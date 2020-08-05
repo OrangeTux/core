@@ -1,0 +1,16 @@
+{
+  "domain": "ev",
+  "name": "ocpp",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ev",
+  "requirements": [
+    "ocpp==0.6.4"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@OrangeTux"
+  ]
+}
