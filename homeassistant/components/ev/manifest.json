@@ -1,16 +1,10 @@
 {
   "domain": "ev",
-  "name": "ocpp",
-  "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/ev",
+  "name": "EV",
+  "documentation": "https://www.home-assistant.io/integrations/bitcoin",
   "requirements": [
-    "ocpp==0.6.4"
+      "ocpp==0.6.4",
+      "websockets==8.1"
   ],
-  "ssdp": [],
-  "zeroconf": [],
-  "homekit": {},
-  "dependencies": [],
-  "codeowners": [
-    "@OrangeTux"
-  ]
+  "codeowners": ["@OrangeTux"]
 }
