@@ -60,7 +60,7 @@ PLATFORM_SCHEMA = PLATFORM_SCHEMA.extend(
 
 
 async def async_setup_platform(hass, config, async_add_entities, discovery_info=None):
-    """Set up the EV sensors."""
+    """Set up the OCPP sensors."""
     port = config[CONF_PORT]
     _LOGGER.info(config)
 

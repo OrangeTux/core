@@ -472,9 +472,6 @@ numpy==1.19.1
 # homeassistant.components.google
 oauth2client==4.0.0
 
-# homeassistant.components.ev
-ocpp==0.6.4
-
 # homeassistant.components.onvif
 onvif-zeep-async==0.5.0
 
@@ -1008,9 +1005,6 @@ wakeonlan==1.1.6
 
 # homeassistant.components.folder_watcher
 watchdog==0.8.3
-
-# homeassistant.components.ev
-websockets==8.1
 
 # homeassistant.components.wiffi
 wiffi==1.0.1
